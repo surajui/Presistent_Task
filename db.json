@@ -1,28 +1,5 @@
 {
-  "ListData": [
-    {
-      "listName": "Todo",
-      "arrayList": [
-        {
-          "name": "b"
-        }
-      ],
-      "id": 1
-    },
-    {
-      "listName": "in porgress",
-      "arrayList": [
-        {
-          "name": "a"
-        },
-        {
-          "name": "c"
-        },
-        {
-          "name": "d"
-        }
-      ],
-      "id": 2
-    }
-  ]
+    "ListData": [
+
+    ]
 }
